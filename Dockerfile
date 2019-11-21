@@ -1,7 +1,5 @@
 FROM python:3.6
 
-MAINTAINER jhao104 <j_hao104@163.com>
-
 ENV TZ Asia/Shanghai
 
 WORKDIR /usr/src/app
